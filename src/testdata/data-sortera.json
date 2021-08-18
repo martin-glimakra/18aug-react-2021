@@ -1,0 +1,19 @@
+[{
+    "id": "1",
+    "rubrik": "smör",
+    "beskrivning": "Gott som pålägg tillsammans med ost",
+    "typ": "mat"
+},
+{
+    "id": "2",
+    "rubrik": "fotboll",
+    "beskrivning": "En sport som spelas med fötter",
+    "typ": "sport"
+},
+{
+    "id": "3",
+    "rubrik": "örebro",
+    "beskrivning": "En svensk stad som ligger i Närke",
+    "typ": "stad"
+}
+]
